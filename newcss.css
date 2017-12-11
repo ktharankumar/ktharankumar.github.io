@@ -1,0 +1,10 @@
+body {
+
+    background-image: url("here.png");
+    background-color: #cccccc;
+background-attachment: scroll;
+    background-position: center; 
+background-repeat: repeat-y;
+
+
+}
